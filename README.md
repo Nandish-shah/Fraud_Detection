@@ -81,7 +81,4 @@ Applies:
 - Deploy the model using a web app (e.g., Streamlit)
 - Enable real-time fraud detection with APIs
 
----
-
-## 📁 Folder Structure
 
